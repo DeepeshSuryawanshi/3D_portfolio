@@ -103,7 +103,7 @@ Contributions are welcome! Feel free to fork the repository, create a new branch
 *Full Stack Developer at CreArt Solutions, Ahmedabad*
 
 - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/DeepeshSuryawanshi)
-- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/deepesh-suryawanshi/](https://www.linkedin.com/in/deepesh-suryawanshi/))
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/deepesh-suryawanshi/)
 
 ## License
 
