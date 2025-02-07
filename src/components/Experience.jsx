@@ -26,7 +26,7 @@ const ExperienceCard =({
    icon={
     <div className='overflow-hidden'>
       <img src={icon} alt={company_name} 
-      className='p-1 object-contain'
+      className='p-1 object-contain rounded-xl'
       />
     </div>
    }
