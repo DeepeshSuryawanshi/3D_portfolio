@@ -24,7 +24,7 @@ const ExperienceCard =({
    date={date}
    iconStyle={{background:iconBg}}
    icon={
-    <div>
+    <div className='overflow-hidden'>
       <img src={icon} alt={company_name} 
       className='p-1 object-contain'
       />

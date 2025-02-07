@@ -18,5 +18,4 @@ const SectionWrapper = (Component,idName) =>function HOC(){
         </motion.section>
     )
 }
-
 export default SectionWrapper
