@@ -36,7 +36,7 @@ const BallCanvas =({icon})=>{
     gl={{preserveDrawingBuffer:true}}
     >
       <Suspense fallback={<CanvasLoader />} >
-        <OrbitControls enableZoom={true} />
+        <OrbitControls enableZoom={false} />
         <Ball imgUrl={icon} />
       </Suspense>
       <Preload all />
